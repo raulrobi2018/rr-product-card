@@ -19,6 +19,11 @@
     "size": "size-limit",
     "analyze": "size-limit --why"
   },
+  "repository": {
+    "url": "https://github.com/raulrobi2018/rr-product-card",
+    "type": "git"
+  },
+  "homepage": "https://github.com/raulrobi2018/rr-product-card",
   "peerDependencies": {
     "react": ">=16"
   },
@@ -56,10 +61,10 @@
     "size-limit": "^8.1.2",
     "tsdx": "^0.14.1",
     "tslib": "^2.5.0",
-    "typescript": "^4.9.5"
-  },
-  "dependencies": {
+    "typescript": "^4.9.5",
     "@rollup/plugin-image": "^3.0.2",
     "rollup-plugin-postcss": "^4.0.2"
-  }
+  },
+  "dependencies": {
+  },"keywords": ["product", "card", "state initializer", "raul", "rodriguez"]
 }
