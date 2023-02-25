@@ -14,7 +14,6 @@ import {
 
 export const ProductContext = createContext({} as ProductContextProps);
 const { Provider } = ProductContext;
-
 export interface Props {
   product: Product;
   //children?: ReactElement | ReactElement[];

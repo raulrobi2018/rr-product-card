@@ -15,7 +15,7 @@ const App = () => {
       <ProductCard
         product={product}
         initialValues={{
-          count: 4,
+          count: 3,
           //maxCount: 10
         }}
       >
