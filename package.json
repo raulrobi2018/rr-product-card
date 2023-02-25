@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "rr-product-card",
+  "name": "raulrobi-product-card",
   "author": "Raul Rodriguez",
   "module": "dist/rr-product-card.esm.js",
   "size-limit": [
