@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage should display the component correctly without image 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "justifyContent": "center",
+    }
+  }
+>
+  <img
+    alt="Product"
+    className="productImg undefined"
+    src="http://image.jpg"
+  />
+</div>
+`;
+
+exports[`ProductImage should display the product with image 1`] = `
+<div
+  className="productCard undefined"
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <img
+      alt="Product"
+      className="productImg undefined"
+      src="./coffee-mug.png"
+    />
+  </div>
+</div>
+`;
